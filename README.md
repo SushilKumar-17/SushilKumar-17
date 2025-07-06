@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sushil Kumar Patra </h1>
 <p align="center">
-  Aspiring Data Scientist | AI/ML Enthusiast | Hackathon Winner | DSA Practitioner
+  Aspiring Data Scientist | AI/ML Enthusiast |National Hackathon Winner | DSA Practitioner
 </p>
 
 ---
@@ -31,62 +31,6 @@ With strong foundations in **Python, ML, NLP, Computer Vision**, and a growing i
 
 ---
 
-## Achievements
-
-- Winner — **Navonmesh 2.0 National Hackathon** (₹1 Lakh Prize)
-- 🥈 1st Runner-up — **Project Expo 2025**, Top 5 out of 500+ teams
-- Winner — **IBM Day Project Competition**
-- 2nd Runner-up — **Zinnovatio Gen Z Hackathon**, Tech Invent 2024 (₹10K Prize)
-- Winner — **Tekathon 3.0** (Qualified for SIH 2024)
-
----
-
-## Key Projects
-
-### Women Safety Ecosystem (National Hackathon Winner)
-
-- Real-time gender classification and gesture-based threat detection using AI-powered CCTV.
-- Companion app for SOS alerts and smartwatch integration.
-
-### Customer Lifetime Value (CLTV) Prediction
-
-- Engineered high-quality features from raw retail data (500K+ rows)
-- Built and evaluated models achieving ~78% explainability (R²)
-
-### RAG + Multi-Agent QA System
-
-- Built a Retrieval-Augmented Generation system using **LangChain** and **Gemma2:2b**
-- Multi-agent orchestration with personalized document-based answering
-
-### Handwritten Digit Recognition
-
-- Created custom dataset and trained CNN-based digit recognizer
-- Applied image pre-processing, binarization, and classification
-
-> Explore more projects on my [GitHub Repositories](https://github.com/SushilKumar-17)
-
----
-
-## Experience
-
-**Data Science Intern**  
-_Celebal Technologies | May 2025 – July 2025 (Remote)_
-
-- Worked on multiple ML projects including CLTV and deployment pipelines
-- Hands-on with EDA, cleaning, visualization, and modeling using Python stack
-
----
-
-## Interests & More
-
-- Data Science & Machine Learning
-- Prompt Engineering & LLMs
-- Backend APIs & Scalable Deployment
-- DSA (Problem-solving on LeetCode, GFG, etc.)
-- Passionate about Cooking, Gardening, and Visual Design
-
----
-
 ## Connect with Me
 
 - Email: [sushilkumarpatra17@gmail.com](mailto:sushilkumarpatra17@gmail.com)
@@ -94,15 +38,3 @@ _Celebal Technologies | May 2025 – July 2025 (Remote)_
 - Kaggle: [kaggle.com/sushilkumarpatra](https://www.kaggle.com/sushilkumarpatra)
 - GitHub: [github.com/SushilKumar-17](https://github.com/SushilKumar-17)
 
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SushilKumar-17&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushilKumar-17&layout=compact&theme=default" height="150"/>
-</p>
-
----
-
-> _“Code, Learn, Build, Repeat.”_ — Let's build something meaningful.
