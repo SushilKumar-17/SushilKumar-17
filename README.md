@@ -28,13 +28,3 @@ With strong foundations in **Python, ML, NLP, Computer Vision**, and a growing i
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
-
----
-
-## Connect with Me
-
-- Email: [sushilkumarpatra17@gmail.com](mailto:sushilkumarpatra17@gmail.com)
-- LinkedIn: [linkedin.com/in/sushilkumarpatra17a](https://linkedin.com/in/sushilkumarpatra17a)
-- Kaggle: [kaggle.com/sushilkumarpatra](https://www.kaggle.com/sushilkumarpatra)
-- GitHub: [github.com/SushilKumar-17](https://github.com/SushilKumar-17)
-
