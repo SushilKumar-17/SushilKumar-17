@@ -13,17 +13,6 @@ With strong foundations in **Python, ML, NLP, Computer Vision**, and a growing i
 
 ---
 
-## Professional Summary
-
-- Final-year student, Computer Science (AI & ML Specialization)
-- Strong in Python, Data Handling, Feature Engineering, EDA
-- Built multiple **end-to-end ML pipelines** with real-world impact
-- Explored **RAG, LangChain, Gemma2:2b**, and open-source LLMs
-- Working on model deployment, scaling, and retrieval-enhanced systems
-- Data Structures & Algorithms enthusiast with solid problem-solving skills
-
----
-
 ## Tech Stack
 
 <p align="center">
